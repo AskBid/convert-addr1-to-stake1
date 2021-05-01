@@ -1,0 +1,14 @@
+{
+  "name": "cardano-serialization-script",
+  "version": "1.0.0",
+  "description": "script to convert addr1 to stake1 addresses in Cardano",
+  "main": "convertAddr1toStake1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emurgo/cardano-serialization-lib-nodejs": "^7.0.0"
+  }
+}
