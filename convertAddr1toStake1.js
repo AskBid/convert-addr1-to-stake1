@@ -25,8 +25,8 @@ function stake1_from_addr1(addr1) {
 
 	// Log bech32 address  
 	const stake1 = reward_addr.to_address().to_bech32()       
-	// console.log(stake1)
-	return stake1
+	console.log(stake1) //is the output hwhat's read
+	// return stake1
 	// stake1ux7r0hh7dzvh9e07pgv6nraskjn8mdrdpfd4cr977a34jfquwqrj9
 }
 
