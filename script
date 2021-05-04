@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+node /Users/sergio/Documents/github/cardano-serialisation-script/convertAddr1toStake1.js ${1}
